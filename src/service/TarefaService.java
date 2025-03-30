@@ -8,6 +8,8 @@ import java.util.List;
 * 
  * Princípios SOLID aplicados:
  * - DIP (Dependency Inversion Principle): A calsse depende de uma abstração (TarefaRepository) ao invés de ter implementação própria na classe.
+ * - OCP (Open/Closed Principle): A classe está "fechada para modificações", ou seja, suas funcionalidades principais (adicionar, listar e validar tarefas) não precisam ser modificadas quando novas tarefas ou novas funcionalidades forem adicionadas.
+ *   No entanto, ela está "aberta para extensão". Por exemplo, se no futuro for necessário implementar um novo tipo de funcionalidade, a classe pode ser estendida para oferecer suporte a essas novas formas de dados sem alterar o código existente.
  */
 public class TarefaService {
 

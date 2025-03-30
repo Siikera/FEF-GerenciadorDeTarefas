@@ -6,6 +6,8 @@ import java.util.Scanner;
 import model.Tarefa;
 
 /**
+ * Sistemas para Informação - 5 Semestre- Feito por Mateus Tomaz Siqueira e Victor Junio Grigoleto Chicas
+ * Gerenciador de Tarefas Completo
  * 
   * Princípios SOLID aplicados:
  * - SRP (Single Responsibility Principle): O Princípio da Responsabilidade Única afirma que uma classe deve ter apenas uma razão para mudar, ou seja, deve ser responsável por uma única tarefa. 
