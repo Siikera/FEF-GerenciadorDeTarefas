@@ -1,4 +1,4 @@
-# Gerenciador de Tarefas em Java - Feito por Mateus Tomaz Siqueira e Victor Junio Grigoleto Chicas
+# Gerenciador de Tarefas em Java - Feito por Mateus Tomaz Siqueira e Victor Junio Grigoleto Chicas e Igor Gabriel
 
 Este é um **Gerenciador de Tarefas** desenvolvido em **Java**, com foco na aplicação dos princípios **SOLID** para garantir um código bem estruturado e de fácil manutenção. 
 A aplicação permite a criação, listagem, conclusão e filtragem de tarefas, sendo totalmente em memória (sem persistência em banco de dados ou arquivos), utilizando uma interação simples via terminal.

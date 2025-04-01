@@ -6,7 +6,7 @@ import java.util.Scanner;
 import model.Tarefa;
 
 /**
- * Sistemas para Informação - 5 Semestre- Feito por Mateus Tomaz Siqueira e Victor Junio Grigoleto Chicas
+ * Sistemas para Informação - 5 Semestre- Feito por Mateus Tomaz Siqueira, Victor Junio Grigoleto Chicas e Igor Gabriel
  * Gerenciador de Tarefas Completo
  * 
   * Princípios SOLID aplicados:
